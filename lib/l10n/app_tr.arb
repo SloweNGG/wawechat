@@ -1,0 +1,35 @@
+{
+  "@@locale": "tr",
+
+  "appName": "WaweChat",
+
+  "authTagline": "Yeni insanlarla tanış, sohbete başla.",
+  "authSignInTab": "Giriş Yap",
+  "authSignUpTab": "Kayıt Ol",
+  "authEmailLabel": "E-posta",
+  "authPasswordLabel": "Şifre",
+  "authPasswordConfirmLabel": "Şifre (tekrar)",
+  "authShowPassword": "Şifreyi göster",
+  "authHidePassword": "Şifreyi gizle",
+  "authForgotPassword": "Şifremi unuttum",
+  "authForgotPasswordSent": "Şifre sıfırlama bağlantısı e-postana gönderildi.",
+  "authSignInButton": "Giriş Yap",
+  "authSignUpButton": "Hesap Oluştur",
+  "authOrDivider": "veya",
+  "authContinueWithGoogle": "Google ile devam et",
+  "authContinueWithApple": "Apple ile devam et",
+  "authTermsNotice": "Devam ederek Kullanım Koşulları'nı ve Gizlilik Politikası'nı kabul etmiş olursun.",
+  "authWelcomeBack": "Tekrar hoş geldin!",
+  "authAccountCreated": "Hesabın oluşturuldu!",
+
+  "validationEmailRequired": "E-posta adresini gir.",
+  "validationEmailInvalid": "Geçerli bir e-posta adresi gir.",
+  "validationPasswordRequired": "Şifreni gir.",
+  "validationPasswordTooShort": "Şifre en az {min} karakter olmalı.",
+  "@validationPasswordTooShort": {
+    "placeholders": {
+      "min": { "type": "int" }
+    }
+  },
+  "validationPasswordMismatch": "Şifreler eşleşmiyor."
+}
